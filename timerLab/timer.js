@@ -23,3 +23,7 @@ let interval = setInterval(() => {
         process.exit(0)
     }
 }, 1000)
+
+//Terminal command examples
+// node timer 5s
+// node timer 1min
